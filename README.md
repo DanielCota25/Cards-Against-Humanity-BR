@@ -1,3 +1,7 @@
+# Cartas Contra a Humanidade: Versão Brasileira
+Essa versão não é apenas uma tradução literal, ela contem novas cartas e termos relativos à cultura brasileira no lugar de coisas que são muito especificas da cultura norte-americana. 
+Baixem o .PDF, imprimam e se divirtam.
+
 # Cards Against Humanity Generator
 
 This Scribus script creates a set of Cards Against Humanity from a CSV file.
